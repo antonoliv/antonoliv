@@ -1,16 +1,16 @@
-### Hi there 👋
+# About
 
-<!--
-**antonoliv/antonoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **António Oliveira**, I'm 21 years old, based in Porto and I'm currently a student of the Informatics and Computation Engineering Master's in FEUP. I'm detail-oriented and extroverted graduate that loves programming and solving complex problems. I'm a passionate and avid developer and my main areas of interest are **Back-end Development*, *Machine Learning* and *Artificial Intelligence*.
 
-Here are some ideas to get you started:
+## Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **BSc in Informatics Engineering** @ Instituto Superior de Engenharia do Porto (ISEP)
+* **MSc in Informatics and Computation Engineering** @ Faculdade de Engenharia da Universidade do Porto (FEUP) (*Currently*)
+* **ERASMUS+ Programme** @ Saxion University of Applied Sciences in Enschede, Netherlands 
+* **Favourite Programming Languages**: *C* and *Python*
+* **Main Areas of Interest**: *Back-end Development*, *Machine Learning* and *Artificial Intelligence*
+
+# Contacts
+
+**E-mail**: antonioliveira@protonmail.com  
+**Discord**: antonoliv
