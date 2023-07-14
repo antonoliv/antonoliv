@@ -1,7 +1,8 @@
 # About
 
-My name is **António Oliveira**, I'm 21 years old, based in Porto and I'm currently a student of the Informatics and Computation Engineering Master's in FEUP. 
-I'm detail-oriented and extroverted graduate that loves programming and solving complex problems. I'm a passionate and avid developer and my main areas of interest are **Back-end Development*, *Machine Learning* and *Artificial Intelligence*.
+My name is **António Oliveira**, I'm 21 years old, based in Porto and I'm currently a student of the Informatics and Computation Engineering Master's in FEUP.  
+
+I'm detail-oriented and extroverted graduate that loves programming and solving complex problems. I'm a passionate and avid developer and my main areas of interest are *Back-end Development*, *Machine Learning* and *Artificial Intelligence*.
 
 ## Quick Facts
 
