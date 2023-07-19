@@ -15,5 +15,5 @@ I'm detail-oriented and extroverted graduate that loves programming and solving 
 # Contacts
 
 **E-mail**: antonioliveira@protonmail.com  
-**Linkedin**: https://www.linkedin.com/in/antonoliv/
+**Linkedin**: https://www.linkedin.com/in/antonoliv/  
 **Discord**: antonoliv
