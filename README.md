@@ -6,11 +6,11 @@ I'm detail-oriented and extroverted graduate that loves programming and solving 
 
 ## Quick Facts
 
-* **BSc in Informatics Engineering** @ Instituto Superior de Engenharia do Porto (ISEP)
-* **MSc in Informatics and Computation Engineering** @ Faculdade de Engenharia da Universidade do Porto (FEUP) (*Currently*)
-* **ERASMUS+ Programme** @ Saxion University of Applied Sciences in Enschede, Netherlands 
-* **Favourite Programming Languages**: *C* and *Python*
-* **Main Areas of Interest**: *Back-end Development*, *Machine Learning* and *Artificial Intelligence*
+* 💻 **BSc in Informatics Engineering** @ Instituto Superior de Engenharia do Porto (ISEP)
+* 📖 **MSc in Informatics and Computation Engineering** @ Faculdade de Engenharia da Universidade do Porto (FEUP) (*Currently*)
+* 🇳🇱 **ERASMUS+ Programme** @ Saxion University of Applied Sciences in Enschede, Netherlands 
+* 🐍 **Favourite Programming Languages**: *C* and *Python*
+* 🧑‍💻 **Main Areas of Interest**: *Back-end Development*, *Machine Learning* and *Artificial Intelligence*
 
 # Contacts
 
